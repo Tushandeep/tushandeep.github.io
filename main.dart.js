@@ -64532,7 +64532,7 @@ A.rM.prototype={
 a8(){return new A.xy(B.j)}}
 A.xy.prototype={
 ZD(){var s=document.createElement("a")
-s.href="/assets/cv/cv.pdf"
+s.href="/assets/images/cv.png"
 s.download="Resume"
 s.click()},
 aY(){var s,r=this
